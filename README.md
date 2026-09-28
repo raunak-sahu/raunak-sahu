@@ -91,13 +91,6 @@ I enjoy solving algorithmic problems and strengthening my fundamentals in:
 
 ---
 
-## 📈 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
